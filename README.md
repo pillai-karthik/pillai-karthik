@@ -51,4 +51,4 @@ Feel free to reach out if you're interested in collaborating on AI projects or n
 
 ---
 
-*“Empowering businesses through intelligent solutions.”*
+*“Empowering businesses through intelligent AI software solutions.”*
