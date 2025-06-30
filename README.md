@@ -44,7 +44,7 @@ We've successfully completed over 160+ AI projects, including collaborations wit
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/karthik-pillai/)
-- 🐦 [Twitter](https://twitter.com/karthik_pillai)
+- 🐦 [Twitter](https://x.com/karthik_pillai_)
 - 📧 [Contact Me](mailto:karthik@productizetech.com)
 
 Feel free to reach out if you're interested in collaborating on AI projects or need consultation on integrating AI into your business.
